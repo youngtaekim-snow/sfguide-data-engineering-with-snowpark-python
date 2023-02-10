@@ -1,0 +1,24 @@
+2023-02-10 05:41:37,272 (77923/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:706  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2023-02-10 05:41:37,274 (77923/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:725  - cacert?: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/base_library.zip/cacert.pem, /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/base_library.zip/certifi/cacert.pem
+2023-02-10 05:41:37,274 (77923/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:725  - cacert?: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/lib-dynload/cacert.pem, /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/lib-dynload/certifi/cacert.pem
+2023-02-10 05:41:37,275 (77923/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:725  - cacert?: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/cacert.pem, /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/certifi/cacert.pem
+2023-02-10 05:41:37,275 (77923/MainThread) snowflake.cli.common.util_cli INFO       util_cli:733  - cacert.pem is set to REQUESTS_CA_BUNDLE: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEIy5Xb6f/certifi/cacert.pem
+2023-02-10 05:41:37,275 (77923/MainThread) __main__ DEBUG      bootstrap:345  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:False
+2023-02-10 05:41:37,275 (77923/MainThread) __main__ INFO      bootstrap:350  - no autoupgrade option: False
+2023-02-10 05:41:37,275 (77923/MainThread) __main__ INFO      bootstrap:352  - version: None, ret_options: None
+2023-02-10 05:41:37,277 (77923/MainThread) __main__ DEBUG      bootstrap:750  - No deletion happened. The number of snowsql is still less than 5
+2023-02-10 05:41:37,278 (77923/MainThread) __main__ DEBUG      bootstrap:365  - can we upgrade?: False
+2023-02-10 05:41:37,278 (77923/MainThread) __main__ INFO      bootstrap:373  - skipping auto upgrade
+2023-02-10 05:41:37,278 (77923/MainThread) __main__ DEBUG      bootstrap:828  - Running /Users/kim-youngtae/.snowsql/1.2.24/snowsql
+2023-02-10 05:50:49,831 (78851/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:706  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2023-02-10 05:50:49,833 (78851/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:725  - cacert?: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/base_library.zip/cacert.pem, /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/base_library.zip/certifi/cacert.pem
+2023-02-10 05:50:49,833 (78851/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:725  - cacert?: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/lib-dynload/cacert.pem, /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/lib-dynload/certifi/cacert.pem
+2023-02-10 05:50:49,833 (78851/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:725  - cacert?: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/cacert.pem, /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/certifi/cacert.pem
+2023-02-10 05:50:49,833 (78851/MainThread) snowflake.cli.common.util_cli INFO       util_cli:733  - cacert.pem is set to REQUESTS_CA_BUNDLE: /var/folders/v9/rmxp68tx5vn7z8trq_6wl_5h0000gn/T/_MEI725yWd/certifi/cacert.pem
+2023-02-10 05:50:49,834 (78851/MainThread) __main__ DEBUG      bootstrap:345  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:False
+2023-02-10 05:50:49,834 (78851/MainThread) __main__ INFO      bootstrap:350  - no autoupgrade option: False
+2023-02-10 05:50:49,834 (78851/MainThread) __main__ INFO      bootstrap:352  - version: None, ret_options: None
+2023-02-10 05:50:49,835 (78851/MainThread) __main__ DEBUG      bootstrap:750  - No deletion happened. The number of snowsql is still less than 5
+2023-02-10 05:50:49,836 (78851/MainThread) __main__ DEBUG      bootstrap:365  - can we upgrade?: False
+2023-02-10 05:50:49,836 (78851/MainThread) __main__ INFO      bootstrap:373  - skipping auto upgrade
+2023-02-10 05:50:49,836 (78851/MainThread) __main__ DEBUG      bootstrap:828  - Running /Users/kim-youngtae/.snowsql/1.2.24/snowsql
